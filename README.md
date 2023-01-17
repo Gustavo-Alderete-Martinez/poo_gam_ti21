@@ -1,2 +1,7 @@
-# poo_gam_ti21
-repositorio para almacenar las practicas de la materia e programación orientada a objetos 
+#curso de programacion orientada a objetos 
+
+## Incice 
+
+|No.|Archivo|Descripción| 
+|--|--|--|
+|1.|Programa0.py|Hola mundo en python
