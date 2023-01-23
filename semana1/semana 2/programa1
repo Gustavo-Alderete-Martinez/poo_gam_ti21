@@ -1,0 +1,9 @@
+"""
+    programa1
+    Nombre: gustavo alderete martinez
+    Fecha: 23/01/2023
+    descricion : comentarios multilinea, comentario de una linea y concatenacionde cadena y cadena de caracteres 
+"""
+variable1 = "Hola"  # Variable que almasena una cadena de caracteres 
+variable2 = "python" # variable que almasena una cadena de caracteres 
+print(variable1 + variable2)#concatena 2 cadenas
